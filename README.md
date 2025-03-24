@@ -27,7 +27,7 @@ Familiarity with Relational Databases (SQL, ORM)
 Some exposure to HTML
 Setup Instructions
 
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository sh Copy Edit git clone https://github.com/ninad-hapase/Full-stack-Development-with-Django-Managing-Migrations-Project
 sh
 Copy
 Edit
@@ -67,12 +67,14 @@ python manage.py runserver
 Access the application at http://127.0.0.1:8000/
 
 
-Done By :- Ninad Hapase
+Done By: Ninad Hapase
 
-Div - J - 37
+Div: J
+
+Roll No.: 37
 
 Pimpri Chinchwad University
 
-Guided by :- Mr. Chandan Prasad
+Guided by: Mr. Chandan Prasad
 
-Faculty Guided :-Mrs. Ruchira Karanjikar
+Faculty Guided: Mrs. Ruchira Karanjikar
