@@ -28,10 +28,7 @@ Some exposure to HTML
 Setup Instructions
 
 1️⃣ Clone the Repository sh Copy Edit git clone https://github.com/ninad-hapase/Full-stack-Development-with-Django-Managing-Migrations-Project
-sh
-Copy
-Edit
-git clone 
+
 
 cd Django-full-stack-develpment-project-main-clg
 
