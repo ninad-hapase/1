@@ -31,7 +31,7 @@ Setup Instructions
 sh
 Copy
 Edit
-git clone https://github.com/Vishakh17/Full-stack-Development-with-Django-Managing-Migrations-Project
+git clone 
 
 cd Django-full-stack-develpment-project-main-clg
 
@@ -67,9 +67,9 @@ python manage.py runserver
 Access the application at http://127.0.0.1:8000/
 
 
-Done By :- Vishakh Shetty
+Done By :- Ninad Hapase
 
-Div - J - 46
+Div - J - 37
 
 Pimpri Chinchwad University
 
